@@ -8,11 +8,10 @@ An introduction to GitHub Actions.
 This repository is based on [**TechWorld with Nana's** GitHub Actions tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI).
 
 ## C++23 CBA Sample Project
-The sample is a simple program using component-based-architecture (CBA).
+The sample is a simple program using component-based architecture (CBA).
 The goal is to automatically build (CMake), test (GTest), and deploy (GitHub releases) this C++ sample project.
 
 ![image](https://github.com/user-attachments/assets/1b25baf7-dbeb-4a75-8be9-49fc179ac6f7)
-
 
 ## Introduction — GitHub Actions
 
@@ -45,7 +44,7 @@ Continuous Integration & Continuous Deployment pipelines commonly look similar t
 4. Push the build artifacts to some system
 5. Deploy the project to production
 
-GitHub actions utilizes container technologies to provide compatibility with almost all kinds of projects.
+GitHub actions utilize container technologies to provide compatibility with almost all kinds of projects.
 
 ## What are Matrix Strategies?
 
