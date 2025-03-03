@@ -1,10 +1,8 @@
 # GitHub Actions Tutorial
 
-GitHub Actions tutorial
+![DevOpsDots](https://github.com/user-attachments/assets/367a9b0e-8d4a-4f20-a27d-c9cbeb9f5f4a)
 
 This repository is based on [**TechWorld with Nana's** GitHub Actions tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI).
-
-![DevOpsDots](https://github.com/user-attachments/assets/367a9b0e-8d4a-4f20-a27d-c9cbeb9f5f4a)
 
 ## C++23 CBA Sample Project
 The sample is a simple program using component-based-architecture (CBA).
