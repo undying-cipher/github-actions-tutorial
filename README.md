@@ -1,5 +1,8 @@
 # GitHub Actions Tutorial
+![GitHub Actions Workflow Badge](https://github.com/undying-cipher/github-actions-tutorial/actions/workflows/cmake-multi-platform.yml/badge.svg
+)
 
+An introduction to GitHub Actions.
 ![DevOpsDots](https://github.com/user-attachments/assets/367a9b0e-8d4a-4f20-a27d-c9cbeb9f5f4a)
 
 This repository is based on [**TechWorld with Nana's** GitHub Actions tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI).
